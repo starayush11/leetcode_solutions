@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/starayush11/leetcode_solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/starayush11/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/starayush11/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/starayush11/leetcode_solutions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/starayush11/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/starayush11/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/starayush11/leetcode_solutions/tree/master/0877-stone-game) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/starayush11/leetcode_solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/starayush11/leetcode_solutions/tree/master/0268-missing-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/starayush11/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/starayush11/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/starayush11/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/starayush11/leetcode_solutions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/starayush11/leetcode_solutions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/starayush11/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/starayush11/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/starayush11/leetcode_solutions/tree/master/0877-stone-game) |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/starayush11/leetcode_solutions/tree/master/0268-missing-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/starayush11/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/starayush11/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
@@ -119,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/starayush11/leetcode_solutions/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/starayush11/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/starayush11/leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/starayush11/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/starayush11/leetcode_solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/starayush11/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/starayush11/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/starayush11/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
