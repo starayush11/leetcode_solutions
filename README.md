@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/starayush11/leetcode_solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/starayush11/leetcode_solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/starayush11/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/starayush11/leetcode_solutions/tree/master/0268-missing-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/starayush11/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/starayush11/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/starayush11/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/starayush11/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/starayush11/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/starayush11/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/starayush11/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/starayush11/leetcode_solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/starayush11/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/starayush11/leetcode_solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/starayush11/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/starayush11/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
