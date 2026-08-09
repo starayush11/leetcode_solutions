@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/starayush11/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/starayush11/leetcode_solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/starayush11/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1140-stone-game-ii](https://github.com/starayush11/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/starayush11/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/starayush11/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/starayush11/leetcode_solutions/tree/master/1406-stone-game-iii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/starayush11/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/starayush11/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/starayush11/leetcode_solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/starayush11/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/starayush11/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/starayush11/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/starayush11/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/starayush11/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/starayush11/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/starayush11/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/starayush11/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/starayush11/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/starayush11/leetcode_solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/starayush11/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/starayush11/leetcode_solutions/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/starayush11/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/starayush11/leetcode_solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/starayush11/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/starayush11/leetcode_solutions/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
@@ -190,10 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/starayush11/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/starayush11/leetcode_solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/starayush11/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/starayush11/leetcode_solutions/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
 |  |
